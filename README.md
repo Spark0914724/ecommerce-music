@@ -123,7 +123,7 @@ Install Python 3.7 or above
 
 > 👉 **Step 1** - Download the code from the GH repository (using `GIT`):
 ```bash
-git clone https://github.com/prathmeshsoni/Ecommerce.git && cd Ecommerce
+git clone https://github.com/Spark0914724/ecommerce-music.git
 ```
 
 <br />
@@ -210,10 +210,6 @@ Documentation: <a href="https://razorpay.com/docs/payments/server-integration/py
 
 Visit our <a href="https://private-app.mrsoni.in/view/113" target="_blank"> Screenshots Page </a> for a visual walkthrough of the Music Club E-Commerce Website.
 
-Demo Video 👇:
-
-https://github.com/prathmeshsoni/Ecommerce/assets/78293392/77c6be7a-d6a2-4e27-9c8e-e28327c99586
-
 <br />
 
 The repository is a starting point for most of my professional projects; for this, I'm using it as a part of my portfolio, feel free to use it wherever you want. I'll be happy if you provide any feedback code improvements or suggestions.
@@ -238,10 +234,3 @@ The repository is a starting point for most of my professional projects; for thi
   <a href="#top">Back To Top</a>
 </p>
 
-<p style="text-align:right;" align="right">
-  <a href="https://github.com/PrathmeshSoni/Ecommerce" target="_blank">Back To Repository</a>
-</p>
-
-
----
-**<a href="https://music-club.mrsoni.in" target="_blank">Music Club</a> eCommerce** - Provided by **<a href="https://soniprathmesh.com" target="_blank">Prathmesh Soni</a>**
